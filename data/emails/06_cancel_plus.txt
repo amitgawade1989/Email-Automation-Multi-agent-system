@@ -1,0 +1,13 @@
+From: Meera Iyer <meera.iyer@example.com>
+To: support@quickcart.com
+Subject: Please cancel my QuickCart Plus membership
+Date: Sat, 26 Sep 2026 13:02:00 +0530
+
+Hi,
+
+I don't order often enough anymore, so please cancel my QuickCart Plus
+membership before the next renewal. Will I get any money back for the
+remaining months?
+
+Thanks,
+Meera

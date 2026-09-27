@@ -1,0 +1,13 @@
+From: Arjun Nair <arjun.nair@example.com>
+To: support@quickcart.com
+Subject: Suggestion: wishlist sharing
+Date: Sat, 26 Sep 2026 15:20:00 +0530
+
+Hi there,
+
+I love using the app. One small suggestion - it would be great if I could
+share my wishlist with family members so they know what to buy me for
+Diwali. Is this something you are planning?
+
+Cheers,
+Arjun

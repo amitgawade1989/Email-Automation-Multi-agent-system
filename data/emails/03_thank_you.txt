@@ -1,0 +1,13 @@
+From: Anita Desai <anita.desai@example.com>
+To: support@quickcart.com
+Subject: Thank you for the quick delivery!
+Date: Sat, 26 Sep 2026 10:05:00 +0530
+
+Hi QuickCart team,
+
+Just wanted to say thanks - my order arrived a day early and the packaging
+was great. Your delivery partner was very polite too.
+
+Keep up the good work!
+
+Anita

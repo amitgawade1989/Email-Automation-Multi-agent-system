@@ -1,0 +1,5 @@
+langgraph>=1.0
+langchain-core>=1.0
+langchain-mistralai>=1.0
+streamlit>=1.40
+python-dotenv>=1.0

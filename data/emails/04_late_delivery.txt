@@ -1,0 +1,15 @@
+From: Vikram Singh <vikram.singh@example.com>
+To: support@quickcart.com
+Subject: Order still not delivered after 9 days
+Date: Sat, 26 Sep 2026 11:30:00 +0530
+
+Hello,
+
+My order #QC-47102 was supposed to arrive last week. The tracking page has
+said "In transit" for 6 days now with no update. It was a birthday gift and
+the birthday has already passed.
+
+I am quite disappointed. Where is my parcel and what are my options?
+
+Regards,
+Vikram
